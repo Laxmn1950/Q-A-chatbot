@@ -1,1 +1,1 @@
-# Q-A-chatbot
+# Q&A chatbot
